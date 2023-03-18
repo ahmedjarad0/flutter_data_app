@@ -1,0 +1,29 @@
+{
+  "login_title": "أهلاً بك مجددا",
+  "login_subtitle": "أدخل الإيميل وكلمة المرور",
+  "email": "البريد",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "logout_alter": "هل أنت متأكد من الخروج ؟",
+  "logout_alter_sure": "تأكيد الخروج",
+  "confirm": "تأكيد",
+  "cancel": "رجوع",
+  "change_language": "تغيير اللغة",
+  "selected_language": "اختر اللغة المناسبة",
+  "register": "إنشاء حساب",
+  "name": "الإسم",
+  "register_title": "إنشاء حساب جديد",
+  "register_subtitle": "أدخل البيانات أدناه",
+  "register_below":"ليس لديك حساب ؟",
+  "register_create": "أنشىء الان!",
+  "products": "المنتجات",
+  "product_create": "إنشاء المنتحات",
+  "product_update": "تعديل المنتجات",
+
+  "info": "الوصف",
+  "price":"السعر",
+  "quantity":"الكمية",
+  "save": "حفظ",
+  "error_data" :"أدخل البيانات الصحيحة"
+
+}
